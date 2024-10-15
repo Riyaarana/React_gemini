@@ -30,29 +30,25 @@ const Main = () => {
             <div className="cards">
               <div className="card">
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-                  nesciunt debitis commodi distinctio?
+                  Suggest beautiful places to visit on holiday
                 </p>
                 <img src={assets.compass_icon} alt="" />
               </div>
               <div className="card">
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-                  nesciunt debitis commodi distinctio?
+                  Tell me about React js and React native
                 </p>
                 <img src={assets.bulb_icon} alt="" />
               </div>
               <div className="card">
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-                  nesciunt debitis commodi distinctio?
+                  Briefly summarize this concept: urban planning
                 </p>
                 <img src={assets.message_icon} alt="" />
               </div>
               <div className="card">
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-                  nesciunt debitis commodi distinctio?
+                Brainstorm team bonding activities for our work retreat
                 </p>
                 <img src={assets.code_icon} alt="" />
               </div>
